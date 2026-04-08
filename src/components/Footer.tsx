@@ -21,7 +21,7 @@ const Footer = () => {
       </div>
       <div className="max-w-6xl mx-auto mt-8 pt-6 border-t border-border">
         <p className="font-body text-xs text-muted-foreground text-center">
-          © {new Date().getFullYear()} Gisele Henrique. Todos os direitos reservados.
+          © {new Date().getFullYear()} Gisele Henrique. Todos os direitos reservados. | CRECI 308783 - F
         </p>
       </div>
     </footer>
